@@ -18,7 +18,7 @@ El usuario proporcionará un dato y se revisará que sea un número primo, adem�
  
 ### Pedido de pizza:
 <a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-simple.png" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-simple.png" alt="Algoritmo número primo" width="200"></a>
-<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-medio.png" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-medio.png" alt="Algoritmo número primo" width="200"></a>   
+<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-nivel-medio.png" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-nivel-medio.png" alt="Algoritmo número primo" width="200"></a>   
 - Primer nivel
     - Se debe indicar el tipo de pizza
     - Se mostrará un mensaje  de aviso si no se ha escogido y se detendrá el proceso.
