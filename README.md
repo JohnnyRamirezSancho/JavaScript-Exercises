@@ -1,4 +1,4 @@
-# EJERCICIOS BÁSCIOS DE JAVASCRIPT 01
+# EJERCICIOS BÁSICOS DE JAVASCRIPT 01
 
 <a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/portada.jpg" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/portada.jpg" alt="Index" width="200"></a>   
 
@@ -13,12 +13,12 @@ Se proponen cuatro ejercicios básicos, a realizar en JavaScript:
 - Realizar un pedido de pizza, con tres niveles de dificultad progresiva.
 
 ### Números primos:
-<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-numero-primo.png" targeAlgoritmo número primolank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-numero-primo.png" alt="Algoritmo número primo" width="200"></a>   
+<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-numero-primo.png" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-numero-primo.png" alt="Algoritmo número primo" width="200"></a>   
 El usuario proporcionará un dato y se revisará que sea un número primo, además de las comprobaciones previas que se consideren necesarias.
  
 ### Pedido de pizza:
-<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-simple.png" targeAlgoritmo número primolank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-simple.png" alt="Algoritmo número primo" width="200"></a>
-<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-medio.png" targeAlgoritmo número primolank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-medio.png" alt="Algoritmo número primo" width="200"></a>   
+<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-simple.png" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-simple.png" alt="Algoritmo número primo" width="200"></a>
+<a href="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-medio.png" target="_blank"><img src="http://yquetecuentas.com/f5/ejercicios-basicos-javascript-01/algoritmo-pizza-medio.png" alt="Algoritmo número primo" width="200"></a>   
 - Primer nivel
     - Se debe indicar el tipo de pizza
     - Se mostrará un mensaje  de aviso si no se ha escogido y se detendrá el proceso.
